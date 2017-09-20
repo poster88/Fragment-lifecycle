@@ -9,4 +9,6 @@ import android.support.v4.app.Fragment;
 public class TitlesFragment extends Fragment{
     public interface OnItemSelectedListener {
     }
+
+    //TODO: create list with news
 }
